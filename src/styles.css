@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  gap: 15px;
+}
+
+/* .available-list {
+  display: flex;
+  flex-direction: column ;
+} */
